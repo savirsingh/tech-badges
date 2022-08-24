@@ -1,0 +1,26 @@
+<!-- code by savir singh -->
+<!doctype html>
+<html>
+	<head>
+		<title>Tech Badges GIF Producer</title>
+		<link rel="stylesheet" type="text/css" href="app.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" type="text/css" href="animate-custom.css">
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="gif.js"></script>
+		<script src="app.js"></script>
+	</head>
+	<body>
+		<section id="frames"></section>
+		<section id="go">
+			<label>Frame delay: <input id="delay" type="number" value="1"/></label><br>
+			<button style="padding: 8px" id="done">GIF TIME!</button>
+			<span id="error"></span>
+		</section>
+		<section id="results"></section>
+		<footer>
+			Special thanks to Johan Nordberg for creating gif.js<br>
+			<b style="font-size: 24px">Please drag and drop images to produce a GIF.</b>
+		</footer>
+	</body>
+</html>
