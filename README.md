@@ -1,7 +1,7 @@
 # Technology Badges for your website/GitHub
 Tech Badges to add to your website or GitHub.
 
-### Languages:
+### Language Badges (Resized):
 
 ![python_resized](https://user-images.githubusercontent.com/84334654/186487739-c12c8c63-6877-46f2-83a4-f37aacf5466f.gif)
 ![cplusplus_resized](https://user-images.githubusercontent.com/84334654/186487758-b344bff7-92f9-4f0f-99aa-67dab80ed664.gif)
